@@ -1,2 +1,2 @@
-# folder1
+# teretana_folder
 Folder za projekte
